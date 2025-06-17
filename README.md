@@ -1,4 +1,4 @@
-````markdown
+
 # bandit-algorithm-project
 # Reinforcement Learning – Bandit Assignment
 
@@ -23,7 +23,6 @@ This project implements several bandit learning algorithms for a 10-armed testbe
 git clone https://github.com/PrudenceBas/bandit-algorithm-project.git
 cd bandit-algorithm-project
 ```
-````
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
 
